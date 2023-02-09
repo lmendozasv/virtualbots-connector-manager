@@ -1,0 +1,23 @@
+Flask==2.2.2
+gunicorn==20.1.0
+google==3.0.0
+google-api-core==2.11.0
+google-cloud-dialogflow
+mysql-connector-python==8.0.31
+google-cloud-vision
+Flask-Script
+Flask-Bootstrap
+Flask-WTF
+Flask-Sqlalchemy
+SQLAlchemy==1.4.46
+requests
+pymysql
+firebase_admin
+wget
+urllib3==1.26.14
+# ssl
+# libmagic
+# pylibmagic
+mimetypes-magic
+# messenger-api-python
+# python-magic-bin
